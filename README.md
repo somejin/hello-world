@@ -1,2 +1,2 @@
 # hello-world
-way to learn github
+way to learn github by jsc
